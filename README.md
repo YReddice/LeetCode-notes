@@ -1,5 +1,7 @@
 # LeetCode
 
+**以下题目为精选并非全部**
+
 ## 数组
 
 * Leetcode 0004 寻找两个正序数组的中位数 ----> [题目链接](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) ----> [我的解答]() 
